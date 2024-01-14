@@ -3,8 +3,7 @@
 
 ## Functionalities
 1. Add item in todo
-2. Edit todo item
-3. delete todo item
+2. Delete todo item
 
 
 ## Run the Project in your system
